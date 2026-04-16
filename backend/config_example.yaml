@@ -11,8 +11,9 @@ arxiv:
     #   - math
     #   - stat
     categories:
-        - Computer Vision and Pattern Recognition
         - Artificial Intelligence
+        - Distributed, Parallel, and Cluster Computing
+        - Machine Learning
     # To fetch ALL papers from the field(s) without category filtering, use:
     # categories: []
     max_results: 40 # 0 means no limit
@@ -30,8 +31,8 @@ llm:
 # Three-Stage Filtering
 # ============================================
 user_prompt: |
-    Related to (M)LLMs.
-    Not related to language-specific models or applications.
+    Related to "acceleration in LLM serving"(including acceleration in framework pipeline / network / communication between GPU cores and etc.), new powerful LLM agent, GPU virtualization, distributed system and visual geometry reconstruction.
+    Not related to chatbot, language-specific models or applications.
     Do not include surveys.
     Always answer in Chinese.
 
