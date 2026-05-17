@@ -14,6 +14,7 @@ arxiv:
         - Artificial Intelligence
         - Distributed, Parallel, and Cluster Computing
         - Machine Learning
+        - Operating Systems
     # To fetch ALL papers from the field(s) without category filtering, use:
     # categories: []
     max_results: 40 # 0 means no limit
