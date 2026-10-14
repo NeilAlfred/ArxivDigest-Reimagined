@@ -32,8 +32,8 @@ llm:
 # Three-Stage Filtering
 # ============================================
 user_prompt: |
-    Related to "acceleration in LLM serving"(including acceleration in framework pipeline / network / communication between GPU cores and etc.), new powerful LLM agent, GPU virtualization, distributed system and visual geometry reconstruction.
-    Not related to chatbot, language-specific models or applications.
+    Related to "acceleration in LLM serving and training"(including acceleration in framework pipeline / network / KV cache storage / MegaMoE / MTP / MOPD tasks / RL scenes / communication between GPU cores and etc. Hit one key word is ok.).
+    Not related to chatbot, security topics, language-specific models or applications.
     Do not include surveys.
     Always answer in Chinese.
 
